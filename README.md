@@ -9,24 +9,27 @@ This project is a recommendation system for SHL assessments, designed to suggest
   - **Streamlit UI**: Interactive web app for users to input queries and view recommendations.
   - **FastAPI API**: API returning JSON recommendations for programmatic access.
 
+## Working Model
+https://assessment-recommender.streamlit.app
+
 
 ## Setup and Installation (Local)
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Shailly-450/SHL-assessment.git
    cd SHL-assessment
-2. **Set Up Virtual Environment:
+2. **Set Up Virtual Environment**:
   ```bash
   python3 -m venv venv
   source venv/bin/activate  # On Mac/Linux
   # venv\Scripts\activate  # On Windows
 ```
-3. **Add Gemini API Key:
+3. **Add Gemini API Key**:
 Create a .env file:
 GEMINI_API_KEY=your_api_key_here
 
-4. **Get your key from Google AI Studio.
-5. **Run Locally:
+4. **Get your key from Google AI Studio.**
+5. **Run Locally**:
 Streamlit UI:
 ```bash
 streamlit run app.py
