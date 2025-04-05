@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Teller 7 0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teller-7-0/",
+    "description": "Cognitive test for banking roles assessing numerical and deductive skills.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "30 mins",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Workplace Safety Team 7 1 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+    "description": "Behavioral assessment for team safety awareness.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Teller with Sales Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teller-with-sales-short-form/",
+    "description": "Short cognitive test with sales aptitude for banking staff.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "20 mins",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Workplace Safety Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-solution/",
+    "description": "General safety behavior evaluation.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Workplace Safety Individual 7 1 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "description": "Individual safety skills and awareness test.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Transcriptionist Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/transcriptionist-solution/",
+    "description": "Skills test for transcription accuracy and speed.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "35 mins",
+    "test_type": "Skill"
+  },
+  {
+    "name": "Workplace Safety Team 7 1 Americas",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "description": "Region-specific team safety behavior test.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Workplace Safety Individual 7 0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "description": "Individual safety competency assessment.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Workplace Safety Team 7 0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+    "description": "Team-oriented safety behavior evaluation.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Java 8 Coding Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-coding/",
+    "description": "Coding skills test for Java developers.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "40 mins",
+    "test_type": "Skill"
+  },
+  {
+    "name": "Python Programming Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-programming/",
+    "description": "Assess Python coding proficiency.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "45 mins",
+    "test_type": "Skill"
+  },
+  {
+    "name": "SQL Knowledge Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-knowledge/",
+    "description": "Evaluate SQL query and database skills.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 mins",
+    "test_type": "Skill"
+  },
+  {
+    "name": "Verify G+ Interactive",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-interactive/",
+    "description": "General cognitive ability test with interactive elements.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "36 mins",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Occupational Personality Questionnaire (OPQ32)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32/",
+    "description": "Personality traits and workplace behavior assessment.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 mins",
+    "test_type": "Personality"
+  },
+  {
+    "name": "Numerical Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning/",
+    "description": "Assess numerical problem-solving skills.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "20 mins",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Deductive Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/deductive-reasoning/",
+    "description": "Evaluate logical deduction abilities.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "18 mins",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sjt/",
+    "description": "Behavioral responses to workplace scenarios.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Customer Service Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-simulation/",
+    "description": "Skills test for customer interaction.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "35 mins",
+    "test_type": "Skill"
+  },
+  {
+    "name": "Managerial Judgement Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-judgement/",
+    "description": "Assess decision-making for managerial roles.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "40 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Data Science Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science-simulation/",
+    "description": "Test data analysis and machine learning skills.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "60 mins",
+    "test_type": "Skill"
+  },
+  {
+    "name": "Verbal Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning/",
+    "description": "Evaluate comprehension and verbal logic.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "19 mins",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Team Collaboration Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/team-collaboration/",
+    "description": "Behavioral test for teamwork skills.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "35 mins",
+    "test_type": "Behavioral"
+  },
+  {
+    "name": "Excel Skills Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/excel-skills/",
+    "description": "Assess proficiency in Microsoft Excel.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 mins",
+    "test_type": "Skill"
+  },
+  {
+    "name": "Leadership Potential Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-potential/",
+    "description": "Evaluate leadership traits and potential.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "45 mins",
+    "test_type": "Personality"
+  },
+  {
+    "name": "Contact Center Agent Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-agent/",
+    "description": "Skills and behavioral test for call center roles.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 mins",
+    "test_type": "Skill"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teller-7-0/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teller-with-sales-short-form/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-solution/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/transcriptionist-solution/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+    "description": "This is the Global site. For our India site, select from the globe icon menu.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "Not specified",
+    "test_type": "Cognitive"
+  }
+]
