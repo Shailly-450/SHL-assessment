@@ -1,44 +1,76 @@
-# SHL Assessment Recommendation System
+# 🧠 SHL Assessment Recommendation System
 
-This project is a recommendation system for SHL assessments, designed to suggest relevant assessments based on natural language queries (e.g., "Java developers, 40 mins"). It uses the **Gemini API** for intelligent query parsing and is deployed as a Streamlit UI and FastAPI endpoint.
+A smart recommendation system for SHL assessments that suggests relevant assessments based on natural language job descriptions like:
 
-## Features
-- **Query Parsing**: Extracts skills, duration, and test types from user queries using Google's Gemini API.
-- **Recommendation Engine**: Scores and ranks assessments from a curated dataset (`assessments_enhanced.json`).
-- **Deployment**:
-  - **Streamlit UI**: Interactive web app for users to input queries and view recommendations.
-  - **FastAPI API**: API returning JSON recommendations for programmatic access.
+> _"Java developers, 40 mins"_  
+> _"Frontend role with React and TypeScript"_  
 
-## Working Model
-https://assessment-recommender.streamlit.app
+Built using Google's **Gemini API** for intelligent query understanding, and deployed with **Streamlit** for an interactive UI and **FastAPI** for API access.
 
+---
 
-## Setup and Installation (Local)
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shailly-450/SHL-assessment.git
-   cd SHL-assessment
-2. **Set Up Virtual Environment**:
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate  # On Mac/Linux
-  # venv\Scripts\activate  # On Windows
+## 🚀 Features
+
+### 🔍 Intelligent Query Parsing
+- Uses **Gemini API** to extract skills, duration, and assessment types from natural language queries.
+
+### 📊 Recommendation Engine
+- Ranks and scores assessments from a curated dataset.
+- If fewer than 10 relevant assessments are found, Gemini generates additional suggestions based on the query.
+
+### 🕸️ Web Scraping for Assessment Data
+- Assessments are **scraped from the SHL website**.
+- Extracted assessments are enhanced and stored in `assessments_enhanced.json`, used during recommendation.
+
+### 🌐 Dual Deployment
+- **Streamlit Web App**: User-friendly interface to input job descriptions and get recommendations.
+- **FastAPI Endpoint**: REST API for programmatic access to the recommendations.
+
+---
+
+## 🔧 Setup & Installation (Local)
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Shailly-450/SHL-assessment.git
+cd SHL-assessment
 ```
-3. **Add Gemini API Key**:
-Create a .env file:
+2. Create & Activate Virtual Environment
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Mac/Linux
+# venv\Scripts\activate   # On Windows
+```
+3. Add Gemini API Key
+Create a .env file in the root directory and add:
+```bash
 GEMINI_API_KEY=your_api_key_here
+```
+Get your key from Google AI Studio.
 
-4. **Get your key from Google AI Studio.**
-5. **Run Locally**:
-Streamlit UI:
+🖥️ Run Locally
+
+Streamlit UI
 ```bash
 streamlit run app.py
 ```
-FastAPI:
+FastAPI Server
 ```bash
 uvicorn app:app --reload
 ```
+🌐 Working Model
 
-Author
+Try it live:
+(https://assessment-recommender.streamlit.app)
+
+📁 File Overview
+
+File/Folder	Description
+app.py	Main Streamlit frontend
+api/	FastAPI backend and routing logic
+assessment_scraper.py	Web scraper to extract assessment data from SHL
+assessments_enhanced.json	Enriched dataset used for recommendation logic
+.env	Environment variables (API keys etc.)
+
+👩‍💻 Author
 Shailly Yadav
-
